@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica4POE", "Practica4POE.csproj", "{B5298540-A5FA-4C88-9625-0B3C8048F469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "..\Database\Database.csproj", "{7149517D-053E-4DE2-94C7-47312CF0FD93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5298540-A5FA-4C88-9625-0B3C8048F469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5298540-A5FA-4C88-9625-0B3C8048F469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5298540-A5FA-4C88-9625-0B3C8048F469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5298540-A5FA-4C88-9625-0B3C8048F469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7149517D-053E-4DE2-94C7-47312CF0FD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7149517D-053E-4DE2-94C7-47312CF0FD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7149517D-053E-4DE2-94C7-47312CF0FD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7149517D-053E-4DE2-94C7-47312CF0FD93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C3D8210-578F-4BE7-8D05-2C27EB0E2D8F}
+	EndGlobalSection
+EndGlobal
